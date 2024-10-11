@@ -4,7 +4,7 @@ It can be used to scan QR code /barcode by using camera or through gallery image
 
 ## Tech Stack
 Android, Kotlin
-Barcode scanning (ML Kit)
+Barcode scanning (ML Kit)  
 CameraX
 
 ## Screenshot
